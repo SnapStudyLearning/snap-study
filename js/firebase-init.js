@@ -1,4 +1,3 @@
-
 const firebaseConfig = {
   apiKey: "AIzaSyAhV4oQ41qfd_WT5-hY1OyecV3nM_oXDU8",
   authDomain: "snap-study-b4927.firebaseapp.com",
